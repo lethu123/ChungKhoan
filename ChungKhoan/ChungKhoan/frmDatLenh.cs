@@ -44,15 +44,14 @@ namespace ChungKhoan
         {
             if (KiemTraTruocKhiXacNhan())
             {
-                string loaiGD = "M";
+                char loaiGD = 'M';
                 if (toggleLoaiGD.IsOn)
                 {
-                    loaiGD = "B";
+                    loaiGD = 'B';
                 }
                 SqlConnection con = new SqlConnection(GetConnectionString());
                 SqlCommand sqlCommand = new SqlCommand();
                 SqlParameter input = new SqlParameter();
-
 
                 sqlCommand.Connection = con;
                 con.Open();
@@ -69,7 +68,7 @@ namespace ChungKhoan
                 sqlCommand.Parameters.Add("@giadatMB", SqlDbType.Float).Value = giaMB;
                 sqlCommand.ExecuteNonQuery();
 
-                if(loaiGD == "M")
+                if(loaiGD == 'M')
                 {
                     MessageBox.Show("Đặt lệnh mua thành công!");
                     refreshDatLenh();

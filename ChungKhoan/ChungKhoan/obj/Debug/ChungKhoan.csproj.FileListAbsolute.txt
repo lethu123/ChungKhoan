@@ -178,3 +178,274 @@ E:\STUDY\Chuyên đề công nghệ phần mềm\New folder\ChungKhoan\ChungKhoa
 E:\STUDY\Chuyên đề công nghệ phần mềm\New folder\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.csproj.CopyComplete
 E:\STUDY\Chuyên đề công nghệ phần mềm\New folder\ChungKhoan\ChungKhoan\bin\Debug\ChungKhoan.exe.config
 E:\STUDY\Chuyên đề công nghệ phần mềm\New folder\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.exe.licenses
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ChungKhoan.exe.config
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.exe
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.pdb
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ChungKhoan.exe
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ChungKhoan.pdb
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.csprojResolveAssemblyReference.cache
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.frmBangGia.resources
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.frmMain.resources
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.frmDatLenh.resources
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.Properties.Resources.resources
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.csproj.GenerateResource.Cache
+C:\Users\HOQUOCTHONG\Downloads\ChungKhoan-master\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.exe.licenses
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ChungKhoan.exe.config
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.exe
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.pdb
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ChungKhoan.exe
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ChungKhoan.pdb
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Data.v17.1.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Data.v17.1.xml
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.csprojResolveAssemblyReference.cache
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.frmBangGia.resources
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.frmMain.resources
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.frmDatLenh.resources
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.Properties.Resources.resources
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.csproj.GenerateResource.Cache
+D:\ChuyenDeCNPM\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.exe.licenses
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ChungKhoan.exe.config
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ChungKhoan.exe
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ChungKhoan.pdb
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Data.v17.1.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Office.v17.1.Core.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Data.v17.1.xml
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\DevExpress.Office.v17.1.Core.xml
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.csprojAssemblyReference.cache
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.frmBangGia.resources
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.frmMain.resources
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.frmDatLenh.resources
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.Properties.Resources.resources
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.csproj.GenerateResource.cache
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.csproj.CoreCompileInputs.cache
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.csproj.CopyComplete
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.exe
+E:\STUDY\Chuyên đề công nghệ phần mềm\DETAI\xyz\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.pdb

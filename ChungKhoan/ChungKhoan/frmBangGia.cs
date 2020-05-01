@@ -23,7 +23,7 @@ namespace ChungKhoan
         private SqlCommand command = null;
         private DataSet dataToWatch = null;
 
-        private string sqlQuery = "SELECT  MACP,GIADUMUA1,SLDUMUA1,GIADUMUA2,SLDUMUA2,GIAKHOP,SLKHOP,GIADUBAN1,SLDUBAN1,GIADUBAN2,SLDUBAN2,NGAYGIAODICH FROM dbo.GIATRUCTUYEN";
+        private string sqlQuery = "SELECT  MACP,GIADUMUA1,SLDUMUA1,GIADUMUA2,SLDUMUA2,GIAKHOP,SLKHOP,GIADUBAN1,SLDUBAN1,GIADUBAN2,SLDUBAN2 FROM dbo.GIATRUCTUYEN";
         public frmBangGia()
         {
             InitializeComponent();
@@ -51,10 +51,13 @@ namespace ChungKhoan
         private void frmBangGia_Load(object sender, EventArgs e)
         {
             // TODO: This line of code loads data into the 'cHUNGKHOANDataSet.GIATRUCTUYEN' table. You can move, or remove it, as needed.
-           // this.gIATRUCTUYENTableAdapter.Fill(this.cHUNGKHOANDataSet.GIATRUCTUYEN);
+            // this.gIATRUCTUYENTableAdapter.Fill(this.cHUNGKHOANDataSet.GIATRUCTUYEN);
+
+            
 
             if (CanRequestNotifications() == true)
             {
+                clearBangGia();
                 Start();
             }
             else
@@ -101,7 +104,7 @@ namespace ChungKhoan
             using (SqlDataAdapter adapter = new SqlDataAdapter(command))
             {
                 adapter.Fill(dataToWatch, tableName);
-
+                dtNgayGiaoDich.Text = (DateTime.Now.ToString("dd/MM/yyyy"));
                 this.dataGridView1.DataSource = dataToWatch;
                 this.dataGridView1.DataMember = tableName;
             }
@@ -135,6 +138,22 @@ namespace ChungKhoan
             {
                 this.Close();
             }
+        }
+
+        private void clearBangGia()
+        {
+            SqlConnection con = new SqlConnection(GetConnectionString());
+            SqlCommand sqlCommand = new SqlCommand();
+            sqlCommand.Connection = con;
+            con.Open();
+            sqlCommand.CommandType = CommandType.StoredProcedure;
+            sqlCommand.CommandText = "SP_clear_GiaTrucTuyen";
+            sqlCommand.ExecuteNonQuery();
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

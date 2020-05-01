@@ -13,6 +13,7 @@ namespace ChungKhoan
     {
         public static SqlConnection conn = new SqlConnection();
         public static String connstr;
+        //public static String servername = @"DESKTOP-15HJU7S";
         public static String servername = @"DESKTOP-2Q5B6UG\LETHITHU";
         public static String mlogin = "sa";
         public static String password = "123";
@@ -33,9 +34,6 @@ namespace ChungKhoan
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-
-            //BonusSkins.Register();
-           // SkinManager.EnableFormSkins();
             Application.Run(new frmMain());
         }
     }
