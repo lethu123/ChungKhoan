@@ -23,7 +23,7 @@ namespace ChungKhoan
         private SqlCommand command = null;
         private DataSet dataToWatch = null;
 
-        private string sqlQuery = "SELECT  MACP,GIADUMUA1,SLDUMUA1,GIADUMUA2,SLDUMUA2,GIAKHOP,SLKHOP,GIADUBAN1,SLDUBAN1,GIADUBAN2,SLDUBAN2 FROM dbo.GIATRUCTUYEN";
+        private string sqlQuery = "SELECT  MACP AS 'Mã cổ phiếu',GIADUMUA1 AS 'Giá dư mua 1',SLDUMUA1 AS 'KL dư mua 1',GIADUMUA2 AS 'Giá dư mua 2',SLDUMUA2 AS 'KL dư mua 2',GIAKHOP AS 'Giá khớp',SLKHOP AS 'KL khớp',GIADUBAN1 AS 'Giá dư bán 1',SLDUBAN1 AS 'KL dư bán 1',GIADUBAN2 AS 'Giá dư bán 2',SLDUBAN2 AS 'KL dư bán 2' FROM dbo.GIATRUCTUYEN";
         public frmBangGia()
         {
             InitializeComponent();
@@ -104,7 +104,7 @@ namespace ChungKhoan
             using (SqlDataAdapter adapter = new SqlDataAdapter(command))
             {
                 adapter.Fill(dataToWatch, tableName);
-                dtNgayGiaoDich.Text = (DateTime.Now.ToString("dd/MM/yyyy"));
+                dtNgayGiaoDich.Text = DateTime.Now.ToString("dd/MM/yyyy");
                 this.dataGridView1.DataSource = dataToWatch;
                 this.dataGridView1.DataMember = tableName;
             }
