@@ -57,7 +57,7 @@ namespace ChungKhoan
 
             if (CanRequestNotifications() == true)
             {
-                clearBangGia();
+                //clearBangGia();
                 Start();
             }
             else
@@ -140,6 +140,7 @@ namespace ChungKhoan
             }
         }
 
+        /*
         private void clearBangGia()
         {
             SqlConnection con = new SqlConnection(GetConnectionString());
@@ -150,7 +151,7 @@ namespace ChungKhoan
             sqlCommand.CommandText = "SP_clear_GiaTrucTuyen";
             sqlCommand.ExecuteNonQuery();
         }
-
+        */
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 

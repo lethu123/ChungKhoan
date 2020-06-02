@@ -52,6 +52,11 @@ namespace ChungKhoan
                 SqlConnection con = new SqlConnection(GetConnectionString());
                 SqlCommand sqlCommand = new SqlCommand();
                 SqlParameter input = new SqlParameter();
+                SqlParameter returnValue = new SqlParameter();
+
+                returnValue.ParameterName = "@returnValue";
+                returnValue.SqlDbType = SqlDbType.Int;
+                returnValue.Direction = ParameterDirection.ReturnValue;
 
                 sqlCommand.Connection = con;
                 con.Open();
@@ -66,21 +71,40 @@ namespace ChungKhoan
 
                 float giaMB = float.Parse(txtGia.Text);
                 sqlCommand.Parameters.Add("@giadatMB", SqlDbType.Float).Value = giaMB;
+                sqlCommand.Parameters.Add(returnValue);
                 sqlCommand.ExecuteNonQuery();
+                int soluongkhop = 0;
+                soluongkhop = (int)returnValue.Value;
 
-                if(loaiGD == 'M')
+                if (loaiGD == 'M')
                 {
                     MessageBox.Show("Đặt lệnh mua thành công!");
                     refreshDatLenh();
-                    return;
                 }
                 else
                 {
                     MessageBox.Show("Đặt lệnh bán thành công!");
                     refreshDatLenh();
-                    return;
                 }
                 
+                if (soluongkhop > 0)
+                {
+                    MessageBox.Show("Tổng số lượng khớp: " + soluongkhop + " cổ phiếu");
+                    return;
+                }
+                else
+                {
+                    if (loaiGD == 'M')
+                    {
+                        MessageBox.Show("Lệnh mua của bạn chưa khớp!");
+                        return;
+                    }
+                    else
+                    {
+                        MessageBox.Show("Lệnh bán của bạn chưa khớp!");
+                        return;
+                    }
+                }
 
             }
         }

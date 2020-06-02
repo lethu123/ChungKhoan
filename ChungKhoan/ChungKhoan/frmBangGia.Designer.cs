@@ -46,10 +46,11 @@
             this.dataGridView1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(1, 43);
+            this.dataGridView1.Location = new System.Drawing.Point(1, 100);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(1522, 426);
+            this.dataGridView1.Size = new System.Drawing.Size(1305, 281);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
@@ -70,9 +71,10 @@
             // btnThoat
             // 
             this.btnThoat.Font = new System.Drawing.Font("Tahoma", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnThoat.Location = new System.Drawing.Point(97, 611);
+            this.btnThoat.Location = new System.Drawing.Point(83, 496);
+            this.btnThoat.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnThoat.Name = "btnThoat";
-            this.btnThoat.Size = new System.Drawing.Size(111, 35);
+            this.btnThoat.Size = new System.Drawing.Size(95, 28);
             this.btnThoat.TabIndex = 1;
             this.btnThoat.Text = "Thoát";
             this.btnThoat.UseVisualStyleBackColor = true;
@@ -82,9 +84,9 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(92, 43);
+            this.label1.Location = new System.Drawing.Point(79, 35);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(154, 24);
+            this.label1.Size = new System.Drawing.Size(125, 19);
             this.label1.TabIndex = 2;
             this.label1.Text = "Ngày giao dịch: ";
             // 
@@ -92,20 +94,21 @@
             // 
             this.dtNgayGiaoDich.AutoSize = true;
             this.dtNgayGiaoDich.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dtNgayGiaoDich.Location = new System.Drawing.Point(261, 43);
+            this.dtNgayGiaoDich.Location = new System.Drawing.Point(224, 35);
             this.dtNgayGiaoDich.Name = "dtNgayGiaoDich";
-            this.dtNgayGiaoDich.Size = new System.Drawing.Size(0, 24);
+            this.dtNgayGiaoDich.Size = new System.Drawing.Size(0, 19);
             this.dtNgayGiaoDich.TabIndex = 3;
             // 
             // frmBangGia
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1522, 680);
+            this.ClientSize = new System.Drawing.Size(1174, 552);
             this.Controls.Add(this.dtNgayGiaoDich);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnThoat);
             this.Controls.Add(this.dataGridView1);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "frmBangGia";
             this.Text = "frmBangGia";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
